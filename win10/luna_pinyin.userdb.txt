@@ -1,0 +1,78 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	77
+#@/user_id	win10
+an niu 	按鈕	c=0 d=0.1 t=64
+an zhuang 	安裝	c=1 d=1 t=11
+can shu 	參數	c=2 d=1.98511 t=70
+chuan di 	傳遞	c=0 d=0.1 t=67
+chuan di dao 	傳遞到	c=1 d=1 t=68
+ci ku 	詞庫	c=4 d=3.4423 t=48
+da quan 	大權	c=1 d=1 t=6
+da xue 	大學	c=0 d=0.1 t=55
+dao 	到	c=0 d=0.1 t=67
+de 	的	c=3 d=2.99789 t=59
+dian ji 	點擊	c=0 d=0.19802 t=64
+dian ji an niu 	點擊按鈕	c=1 d=1 t=65
+dian ji yi xia 	點擊一下	c=1 d=1 t=61
+diao 	掉	c=0 d=0.1 t=41
+en 	恩	c=1 d=1 t=33
+geng hao 	更好	c=1 d=1 t=18
+guan li qi 	管理器	c=2 d=1.91393 t=73
+he 	和	c=1 d=1 t=15
+he bei 	河北	c=0 d=0.1 t=55
+he bei da xue 	河北大學	c=1 d=1 t=56
+ji ke 	即可	c=1 d=1 t=62
+jian ti 	簡體	c=1 d=1 t=40
+jiang 	將	c=1 d=1 t=66
+ke yi 	可以	c=1 d=1 t=43
+le 	了	c=0 d=0.1 t=47
+ling yi ge 	另一個	c=1 d=1 t=69
+ma 	媽	c=1 d=1 t=30
+na ge 	那個	c=1 d=1 t=17
+ni hao 	你好	c=1 d=1 t=35
+ni ma 	你媽	c=0 d=0.192774 t=56
+ni ma 	尼瑪	c=1 d=1 t=58
+pei zhi 	配置	c=0 d=0.1 t=25
+pin yin 	拼音	c=1 d=1 t=72
+shi sha 	是啥	c=1 d=1 t=10
+shi yong 	使用	c=1 d=1 t=63
+shu ru fa 	輸入法	c=7 d=5.78958 t=74
+shuang pin 	雙拼	c=4 d=3.63346 t=76
+shuang pin ci ku 	雙拼詞庫	c=1 d=1 t=49
+shuang pin le 	雙拼了	c=1 d=1 t=48
+si 	死	c=0 d=0.1 t=46
+sou gou 	搜狗	c=1 d=1.08025 t=50
+sou gou shu ru fa 	搜狗輸入法	c=1 d=1 t=7
+suo ding 	鎖定	c=1 d=1 t=39
+tian er 	舔耳	c=1 d=1 t=60
+tong bu 	同步	c=0 d=0.1 t=76
+tui jian 	推薦	c=1 d=1 t=75
+wan mei 	完美	c=0 d=0.1 t=25
+wan mei pei zhi 	完美配置	c=1 d=1 t=26
+wei ruan 	微軟	c=1 d=1 t=71
+wo 	我	c=0 d=0.1 t=41
+wo ai 	我愛	c=0 d=0.1 t=46
+wo ai si 	我愛死	c=1 d=1 t=47
+wo de 	我的	c=7 d=6.51203 t=53
+wo diao ni ma de 	我掉你媽的	c=1 d=1 t=42
+wo wang le 	我忘了	c=1 d=1 t=9
+wo xiang yao 	我想要	c=0 d=0.1 t=31
+wu bi 	五筆	c=1 d=1 t=12
+xiao he 	小鶴	c=3 d=2.92113 t=37
+xiao he shuang pin 	小鶴雙拼	c=1 d=1 t=14
+xiao lang hao 	小狼毫	c=1 d=1 t=1
+xie 	寫	c=0 d=0.1 t=56
+xie ni ma 	寫你媽	c=1 d=1 t=57
+yi xia 	一下	c=0 d=0.1 t=60
+yin 	音	c=1 d=1 t=36
+zhe cai shi 	這纔是	c=0 d=0.1 t=31
+zhe cai shi wo xiang yao de 	這纔是我想要的	c=1 d=1 t=32
+zhe jiu shi 	這就是	c=1 d=1 t=44
+zhu ti 	主題	c=2 d=1.99501 t=23
+zi liao 	資料	c=0 d=0.1 t=76
+zi liao tong bu 	資料同步	c=1 d=1 t=77
+zi ran ma 	自然碼	c=1 d=1 t=16
+zuo dao 	做到	c=1 d=1 t=64

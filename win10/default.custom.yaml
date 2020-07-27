@@ -1,0 +1,21 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Mon Jul 27 11:10:29 2020"
+  rime_version: 1.5.3
+patch:
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key: {Caps_Lock: noop, Control_L: noop, Control_R: noop, Eisu_toggle: clear, Shift_L: commit_code, Shift_R: commit_code}
+  key_binder:
+    bindings: [{accept: "Shift+space", toggle: full_shape, when: always}, {accept: minus, send: Page_Up, when: has_menu}, {accept: equal, send: Page_Down, when: has_menu}]
+  menu:
+    page_size: 5
+  punctuator:
+    half_shape: {"!": "！", "\"": {pair: ["“", "”"]}, "$": "￥", "'": {pair: ["‘", "’"]}, ",": "，", .: "。", "/": "/", ":": "：", ";": "；", "<": "《", ">": "》", "?": "？", "[": "【", "\\": "、", "]": "】", "^": "……", _: "——", "|": "·"}
+  schema_list:
+    - {schema: double_pinyin_flypy}
+  switcher:
+    caption: "〔方案选单〕"
+    hotkeys: ["Control+grave"]
